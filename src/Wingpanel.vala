@@ -43,7 +43,7 @@ namespace Wingpanel {
 
         construct {
             flags = ApplicationFlags.HANDLES_COMMAND_LINE;
-            application_id = "org.elementary.wingpanel";
+            application_id = "io.elementary.wingpanel";
 
             add_main_option_entries (OPTIONS);
         }
