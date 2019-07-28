@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Wingpanel
 Comment=A super sexy space-saving top panel
-Exec=wingpanel
-Icon=wingpanel
+Exec=io.elementary.wingpanel
+Icon=io.elementary.wingpanel
 Terminal=false
 Type=Application
 Categories=Utility;
